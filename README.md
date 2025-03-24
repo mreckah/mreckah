@@ -1,4 +1,4 @@
-<img src="https://www.shutterstock.com/image-photo/retro-computer-header-image-321518270">
+<img align="center" src="https://www.shutterstock.com/image-photo/retro-computer-header-image-321518270">
 
 <h3 title="Welcome!" align="center"> Hey 👋, I'm Oussama NABBAR!</h3>
 
@@ -53,13 +53,13 @@
 ---
 
 # 📊 GitHub Stats:
-<div align="left>
+<div align="left width=300px>
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mreckah&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/></div><div align="right">
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mreckah&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/></div><div align="right" width=300px >
   
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mreckah&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)</div>
-                                                                                                                                                                              
-![GitHub stats](https://nirzak-streak-stats.vercel.app/?user=mreckah&theme=dark&hide_border=false)<br/>
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mreckah&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)</div><div align="center">
+
+![GitHub stats](https://nirzak-streak-stats.vercel.app/?user=mreckah&theme=dark&hide_border=false)<br/></div>
 
 
 ---
