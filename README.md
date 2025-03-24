@@ -1,4 +1,4 @@
-<img align="center" src="https://www.shutterstock.com/image-photo/retro-computer-header-image-321518270">
+
 
 <h3 title="Welcome!" align="center"> Hey 👋, I'm Oussama NABBAR!</h3>
 
@@ -10,6 +10,8 @@
 
 ### About Me 🚀
 <h3 align="left">I am currently in the second year of the engineering cycle in Computer Engineering, Big Data, and Cloud Computing at ENSET Mohammedia, with an interest in the fields of Software engineering.</h3>
+
+
 
 
 ---
@@ -53,11 +55,12 @@
 ---
 
 # 📊 GitHub Stats:
-<div align="left width=300px>
-  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mreckah&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/></div><div align="right" width=300px >
-  
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mreckah&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)</div><div align="center">
+<div style="display: flex; justify-content: space-between; width: 600px;">
+  <p align="left" style="width: 300px;">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mreckah&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div style="display: flex; justify-content: space-between; width: 600px;">
+  <p align="left" style="width: 300px;">
 
 ![GitHub stats](https://nirzak-streak-stats.vercel.app/?user=mreckah&theme=dark&hide_border=false)<br/></div>
 
