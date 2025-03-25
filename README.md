@@ -6,8 +6,8 @@
   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" height="150" width="150"/>
 </p>
 
-<img align="right" alt="GIF" height="200" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXplOXVqaHB0d3U0a2F2ZXY5ZTQ4MjBoZ3ZqajcxZjR3OWowdnNhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
+<img align="right" alt="GIF" height="200" width="300" 
+src="<https://i.gifer.com/JXA0.gif>
 ### About Me 🚀
 <h3 align="left">I am currently in the second year of the engineering cycle in Computer Engineering, Big Data, and Cloud Computing at ENSET Mohammedia, with an interest in the fields of Software engineering.</h3>
 
@@ -88,7 +88,7 @@
 ---
 <div align="center">
 <h3 align="center">My Resume</h3>
-<a href="https://github.com/mreckah/NABBAR_Oussama/blob/main/my_resume.pdf" align="center">
+<a href="https://github.com/mreckah/mreckah/blob/main/my_resume.pdf" align="center">
     <img src="https://img.icons8.com/doodle/40/000000/pdf.png">
 </a></div>
 
