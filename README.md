@@ -6,8 +6,7 @@
   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" height="150" width="150"/>
 </p>
 
-<img align="right" alt="GIF" height="200" width="300" 
-src="<https://i.gifer.com/JXA0.gif>
+<img align="right" alt="GIF" height="200" width="300" src="https://i.gifer.com/JXA0.gif">
 ### About Me 🚀
 <h3 align="left">I am currently in the second year of the engineering cycle in Computer Engineering, Big Data, and Cloud Computing at ENSET Mohammedia, with an interest in the fields of Software engineering.</h3>
 
