@@ -9,7 +9,8 @@
 <img align="right" alt="GIF" height="200" width="300" src="https://i.gifer.com/JXA0.gif">
 
 ### About Me 🚀
-<h3 align="left">I am currently in the second year of the engineering cycle in Computer Engineering, Big Data, and Cloud Computing at ENSET Mohammedia, with an interest in the fields of Software engineering.</h3>
+<h3 align="left">Engineering student specializing in Big Data and Cloud Computing at ENSET Mohammedia. Passionate about data engineering and Artificial Intelligence, I aim to develop innovative solutions in machine learning, big data processing, and distributed systems.
+</h3>
 
 Check out my Portfolio:
 https://mreckah.github.io/NABBAR-s-Portfolio/
@@ -25,31 +26,65 @@ https://mreckah.github.io/NABBAR-s-Portfolio/
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-    <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-    <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> 
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-    <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> 
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/> </a> 
+<h3 align="left">🧠 Skills & Technologies</h3>
+
+#### 🧑‍💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+#### 🤖 Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Regression-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Classification-2196F3?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Clustering-9C27B0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Isolation%20Forest-6A1B9A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/K--Means-3F51B5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Preprocessing-FF9800?style=for-the-badge"/>
+</p>
+
+#### 🌐 Web Development
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java%20EE-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+</p>
+
+#### 🛢 Databases
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/H2-1C1C1C?style=for-the-badge"/>
+</p>
+
+#### 🧰 Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
+
+#### 💻 Operating Systems
+<p>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+#### 🧮 Modeling & Methods
+<p>
+  <img src="https://img.shields.io/badge/Merise-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/UML-FF9800?style=for-the-badge"/>
 </p>
 
 ---
@@ -66,6 +101,22 @@ https://mreckah.github.io/NABBAR-s-Portfolio/
 
 ---
 
+<h3 align="left">🚀 Featured Projects</h3>
+
+- 🛒 **SOUK Platform** *(Hackathon – 3rd Place)*  
+  An accessible eCommerce site for people with disabilities. Integrated AI chatbot using OpenRouter API and focused on accessibility features like keyboard-only navigation and audio feedback.
+
+- 🤖 **Jumia Price Scraper & Chatbot**  
+  Python + Flask app that scrapes product data from Jumia and uses a chatbot to help users compare prices and find deals.
+
+- 💧 **Water Potability Prediction**  
+  Flask-based web app with ML models that predict water safety and issue alerts based on quality metrics.
+
+- 🕹️ **2D Space Game in Java**  
+  A fun FXGL-based game with custom logic, collision detection, and real-time rendering.
+
+---
+
 <h3 align="left">Current Projects</h3>
 
 - **Smart Trash Bin Management App**
@@ -73,26 +124,29 @@ https://mreckah.github.io/NABBAR-s-Portfolio/
   A smart travel assistant that scrapes hotel listings from Booking.com and other platforms, compares prices, and recommends the best options using AI. Features a chat assistant for real-time suggestions and budget optimization.
 
 ---
-<h3 align="center" >  Connect with me 🤝 </h3>
 
+<h3 align="center">🤝 Connect with Me</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/nabbar-oussama/">
-    <img alt="Oussama's LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <a href="https://www.linkedin.com/in/nabbar-oussama/" target="_blank">
+    <img alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
-  <a href="https://github.com/mreckah">
-    <img alt="Oussama's GitHub" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <a href="https://github.com/mreckah" target="_blank">
+    <img alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
-  <a href="https://mreckah.github.io/NABBAR-s-Portfolio/">
-    <img alt="Portfolio Website" width="40px" src="https://img.icons8.com/ios-filled/50/globe--v1.png" />
+  <a href="https://mreckah.github.io/NABBAR-s-Portfolio/" target="_blank">
+    <img alt="Portfolio Website" width="45px" src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" />
   </a>
 </p>
 
+
 ---
+
+<h3 align="center">📄 My Resume</h3>
 <div align="center">
-<h3 align="center">My Resume</h3>
-<a href="https://github.com/mreckah/mreckah/blob/main/-CV-.pdf" align="center">
-    <img src="https://img.icons8.com/doodle/40/000000/pdf.png">
-</a></div>
+  <a href="https://github.com/mreckah/mreckah/blob/main/-CV-.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View%20PDF-My%20Resume-green?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
+</div>
 
 ---
 ### ✍️ Random Dev Quote
