@@ -8,7 +8,7 @@
 
 <img align="right" alt="GIF" height="200" width="300" src="https://i.gifer.com/JXA0.gif">
 
-### About Me 🚀
+### About Me 
 <h3 align="left">Engineering student specializing in Big Data and Cloud Computing at ENSET Mohammedia. Passionate about data engineering and Artificial Intelligence, I aim to develop innovative solutions in machine learning, big data processing, and distributed systems.
 </h3>
 
@@ -26,9 +26,9 @@ https://mreckah.github.io/NABBAR-s-Portfolio/
 
 ---
 
-<h3 align="left">🧠 Skills & Technologies</h3>
+<h3 align="left"> Skills & Technologies</h3>
 
-#### 🧑‍💻 Programming Languages
+####  Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -90,29 +90,36 @@ https://mreckah.github.io/NABBAR-s-Portfolio/
 ---
 
 # 📊 GitHub Stats:
-<div style="display: flex; justify-content: space-between; width: 600px;">
-  <p align="left" style="width: 300px;">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mreckah&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<div style="display: flex; justify-content: space-between; width: 600px;">
-  <p align="left" style="width: 300px;">
+<div align="center">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+    <div style="flex: 1; min-width: 300px; max-width: 400px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mreckah&theme=dark&hide_border=false&layout=compact" alt="Top Languages">
+    </div>
+    <div style="flex: 1; min-width: 300px; max-width: 400px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=mreckah&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats">
+    </div>
+    <div style="flex: 1; min-width: 300px; max-width: 400px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mreckah&theme=dark&hide_border=false" alt="GitHub Streak">
+    </div>
 
-![GitHub stats](https://nirzak-streak-stats.vercel.app/?user=mreckah&theme=dark&hide_border=false)<br/></div>
+  </div>
+</div>
 
 ---
 
-<h3 align="left">🚀 Featured Projects</h3>
+<h3 align="left"> Featured Projects</h3>
 
-- 🛒 **SOUK Platform** *(Hackathon – 3rd Place)*  
+- **SOUK Platform** *(Hackathon – 3rd Place)*  
   An accessible eCommerce site for people with disabilities. Integrated AI chatbot using OpenRouter API and focused on accessibility features like keyboard-only navigation and audio feedback.
 
-- 🤖 **Jumia Price Scraper & Chatbot**  
+- **Jumia Price Scraper & Chatbot**  
   Python + Flask app that scrapes product data from Jumia and uses a chatbot to help users compare prices and find deals.
 
-- 💧 **Water Potability Prediction**  
+- **Water Potability Prediction**  
   Flask-based web app with ML models that predict water safety and issue alerts based on quality metrics.
 
-- 🕹️ **2D Space Game in Java**  
+- **2D Space Game in Java**  
   A fun FXGL-based game with custom logic, collision detection, and real-time rendering.
 
 ---
@@ -148,13 +155,12 @@ https://mreckah.github.io/NABBAR-s-Portfolio/
   </a>
 </div>
 
----
+<div align="center">
+
 ### ✍️ Random Dev Quote
-![GitHub stats](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</p>
 
-⭐️ [OussamaNABBAR](https://github.com/mreckah)
----
+![Daily Developer Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+⭐️ **OussamaNABBAR** • [GitHub Profile](https://github.com/mreckah)
 
-
+</div>
