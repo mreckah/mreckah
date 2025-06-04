@@ -133,18 +133,18 @@ https://mreckah.github.io/NABBAR-s-Portfolio/
 ---
 
 <h3 align="center">🤝 Connect with Me</h3>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/nabbar-oussama/" target="_blank">
-    <img alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <img alt="LinkedIn" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
   <a href="https://github.com/mreckah" target="_blank">
-    <img alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+    <img alt="GitHub" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   </a>
   <a href="https://mreckah.github.io/NABBAR-s-Portfolio/" target="_blank">
-    <img alt="Portfolio Website" width="45px" src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" />
+    <img alt="Portfolio Website" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" />
   </a>
 </p>
-
 
 ---
 
