@@ -7,11 +7,12 @@
 </p>
 
 <img align="right" alt="GIF" height="200" width="300" src="https://i.gifer.com/JXA0.gif">
+
 ### About Me 🚀
 <h3 align="left">I am currently in the second year of the engineering cycle in Computer Engineering, Big Data, and Cloud Computing at ENSET Mohammedia, with an interest in the fields of Software engineering.</h3>
 
-
-
+Check out my Portfolio:
+https://mreckah.github.io/NABBAR-s-Portfolio/
 
 ---
 
@@ -63,14 +64,13 @@
 
 ![GitHub stats](https://nirzak-streak-stats.vercel.app/?user=mreckah&theme=dark&hide_border=false)<br/></div>
 
-
 ---
 
 <h3 align="left">Current Projects</h3>
 
 - **Smart Trash Bin Management App**
-- **To-Do List App** 
-- **Smart Iftar & Suhoor Planner App**
+- **Hotel Recommender & Scraper AI Assistant 🏨🤖**  
+  A smart travel assistant that scrapes hotel listings from Booking.com and other platforms, compares prices, and recommends the best options using AI. Features a chat assistant for real-time suggestions and budget optimization.
 
 ---
 <h3 align="center" >  Connect with me 🤝 </h3>
@@ -82,12 +82,15 @@
   <a href="https://github.com/mreckah">
     <img alt="Oussama's GitHub" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
+  <a href="https://mreckah.github.io/NABBAR-s-Portfolio/">
+    <img alt="Portfolio Website" width="40px" src="https://img.icons8.com/ios-filled/50/globe--v1.png" />
+  </a>
 </p>
 
 ---
 <div align="center">
 <h3 align="center">My Resume</h3>
-<a href="https://github.com/mreckah/mreckah/blob/main/my_resume.pdf" align="center">
+<a href="https://github.com/mreckah/mreckah/blob/main/-CV-.pdf" align="center">
     <img src="https://img.icons8.com/doodle/40/000000/pdf.png">
 </a></div>
 
