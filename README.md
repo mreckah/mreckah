@@ -8,141 +8,106 @@
 
 <img align="right" alt="GIF" height="200" width="300" src="https://i.gifer.com/JXA0.gif">
 
-### About Me 
-<h3 align="left">Engineering student specializing in Big Data and Cloud Computing at ENSET Mohammedia. Passionate about data engineering and Artificial Intelligence, I aim to develop innovative solutions in machine learning, big data processing, and distributed systems.
-</h3>
 
-Check out my Portfolio:
-https://mreckah.github.io/NABBAR-s-Portfolio/
+### About Me
 
----
+Final-year **Computer Engineering** student at **ENSET Mohammedia**, specializing in **Big Data & Cloud Computing**.
+I design **data pipelines**, build **real-time and batch analytics systems**, and implement **AI/ML models** to generate actionable insights from complex datasets.
+Passionate about **Data Engineering, Analytics, and AI-driven solutions** for real-world challenges.
 
-- 🔭 I’m currently working on **Smart Trash Bin Management App**
-- 🌱 I’m currently learning **Spring Boot, Kubernetes**
-- 👯 I’m looking to collaborate on **Distributed Systems Projects**
-- 💬 Ask me about **Java, React, IoT, and Smart City Technologies**
-- 📫 How to reach me **m.reckahwalt@gmail.com**
-- 📝 Check out my projects on **[GitHub](https://github.com/mreckah)**
+Portfolio: [https://mreckah.github.io/NABBAR-s-Portfolio/](https://mreckah.github.io/NABBAR-s-Portfolio/)
 
 ---
 
-<h3 align="left"> Skills & Technologies</h3>
+* 🔭 Currently working on **Data Engineering & Machine Learning projects**
+* 🌱 Learning **Apache Spark, Flink, Kafka, Airflow, and advanced ML pipelines**
+* 👯 Open to collaborate on **Data Engineering, Analytics, and AI/ML projects**
+* 💬 Ask me about **Python, Java, SQL, Big Data, ML, and Cloud technologies**
+* 📫 Reach me: **[m.reckahwalt@gmail.com](mailto:m.reckahwalt@gmail.com)**
+* 📝 Projects: [GitHub](https://github.com/mreckah)
 
-####  Programming Languages
+---
+
+## 🛠 Skills & Technologies
+
+### ⚙️ Data Engineering & Big Data
+<p>
+  <img src="https://img.shields.io/badge/NiFi-E91E63?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HDFS-4B6C96?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flink-0099CC?style=for-the-badge&logo=apache-flink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white"/>
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+</p>
+
+### 📊 Data Visualization
+<p>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Superset-1E1E1E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+</p>
+
+### 🤖 Machine Learning & AI
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RandomForest-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/KMeans-3F51B5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/IsolationForest-6A1B9A?style=for-the-badge"/>
+</p>
+
+### 💻 Programming
 <p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-#### 🤖 Machine Learning
+### ☁️ Web & Cloud (Secondary)
 <p>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Regression-4CAF50?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Classification-2196F3?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Clustering-9C27B0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Isolation%20Forest-6A1B9A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/K--Means-3F51B5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Preprocessing-FF9800?style=for-the-badge"/>
-</p>
-
-#### 🌐 Web Development
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java%20EE-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-</p>
-
-#### 🛢 Databases
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/H2-1C1C1C?style=for-the-badge"/>
-</p>
-
-#### 🧰 Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=red"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</p>
-
-#### 💻 Operating Systems
-<p>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
-
-#### 🧮 Modeling & Methods
-<p>
-  <img src="https://img.shields.io/badge/Merise-4CAF50?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/UML-FF9800?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </p>
 
 ---
 
-# 📊 GitHub Stats:
+### Featured Projects
 
-<div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <div style="flex: 1; min-width: 300px; max-width: 400px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mreckah&theme=dark&hide_border=false&layout=compact" alt="Top Languages">
-    </div>
-    <div style="flex: 1; min-width: 300px; max-width: 400px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=mreckah&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats">
-    </div>
-    <div style="flex: 1; min-width: 300px; max-width: 400px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mreckah&theme=dark&hide_border=false" alt="GitHub Streak">
-    </div>
+* **Attijariwafa Bank Data Pipeline & Analytics**  
+  Built a **data pipeline** (**NiFi → HDFS → Spark → PostgreSQL → Grafana**) to centralize sales data, implement **Random Forest models**, detect anomalies, and generate interactive dashboards for marketing insights.[GitHub Repository](https://github.com/mreckah/EcomPipeline)
 
-  </div>
-</div>
+* **Amazon Delivery Data Pipeline**  
+  Built a distributed data pipeline with 3 **HDFS DataNodes** to process raw delivery data (Bronze) into cleaned Silver and aggregated Gold layers. Developed an **AI model** to predict delivery times and analyze agent performance and traffic. Results stored in PostgreSQL with **Grafana dashboards** for KPIs. [GitHub Repository](https://github.com/mreckah/DeliveryPipeline)
+  
+* **Network Anomaly Detection System (ES Atlas Cloud Services)**  
+  ML system detecting network anomalies using **Isolation Forest** and **K-Means**, classifying **DDoS, brute force, and scanning attacks**.
 
----
+* **Souk Platform — Hackathon 3rd Place**  
+  Inclusive e-commerce platform integrating **AI chatbot** and accessibility-focused navigation.
+  
+* **Water Potability Prediction**  
+  ML web app predicting water safety from chemical indicators, supporting public health monitoring.
 
-<h3 align="left"> Featured Projects</h3>
-
-- **SOUK Platform** *(Hackathon – 3rd Place)*  
-  An accessible eCommerce site for people with disabilities. Integrated AI chatbot using OpenRouter API and focused on accessibility features like keyboard-only navigation and audio feedback.
-
-- **Jumia Price Scraper & Chatbot**  
-  Python + Flask app that scrapes product data from Jumia and uses a chatbot to help users compare prices and find deals.
-
-- **Water Potability Prediction**  
-  Flask-based web app with ML models that predict water safety and issue alerts based on quality metrics.
-
-- **2D Space Game in Java**  
-  A fun FXGL-based game with custom logic, collision detection, and real-time rendering.
 
 ---
 
-<h3 align="left">Current Projects</h3>
-
-- **Smart Trash Bin Management App**
-- **Hotel Recommender & Scraper AI Assistant 🏨🤖**  
-  A smart travel assistant that scrapes hotel listings from Booking.com and other platforms, compares prices, and recommends the best options using AI. Features a chat assistant for real-time suggestions and budget optimization.
-
----
-
-<h3 align="center">🤝 Connect with Me</h3>
+### Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nabbar-oussama/" target="_blank">
     <img alt="LinkedIn" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
-  <a href="https://github.com/mreckah" target="_blank">
-    <img alt="GitHub" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  </a>
   <a href="https://mreckah.github.io/NABBAR-s-Portfolio/" target="_blank">
-    <img alt="Portfolio Website" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" />
+    <img alt="Portfolio" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" />
   </a>
 </p>
 
